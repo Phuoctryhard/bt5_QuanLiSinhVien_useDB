@@ -1,0 +1,9 @@
+C:\Users\LENOVO\Documents\WinformApp.netFrame\QuanLiSv_3layer\Dal\bin\Debug\Dal.dll
+C:\Users\LENOVO\Documents\WinformApp.netFrame\QuanLiSv_3layer\Dal\bin\Debug\Dal.pdb
+C:\Users\LENOVO\Documents\WinformApp.netFrame\QuanLiSv_3layer\Dal\bin\Debug\DTO.dll
+C:\Users\LENOVO\Documents\WinformApp.netFrame\QuanLiSv_3layer\Dal\bin\Debug\DTO.pdb
+C:\Users\LENOVO\Documents\WinformApp.netFrame\QuanLiSv_3layer\Dal\obj\Debug\Dal.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\WinformApp.netFrame\QuanLiSv_3layer\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\WinformApp.netFrame\QuanLiSv_3layer\Dal\obj\Debug\Dal.csproj.CopyComplete
+C:\Users\LENOVO\Documents\WinformApp.netFrame\QuanLiSv_3layer\Dal\obj\Debug\Dal.dll
+C:\Users\LENOVO\Documents\WinformApp.netFrame\QuanLiSv_3layer\Dal\obj\Debug\Dal.pdb

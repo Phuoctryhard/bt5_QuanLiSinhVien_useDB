@@ -1,0 +1,6 @@
+C:\Users\LENOVO\Documents\WinformApp.netFrame\QuanLiSv_3layer\DTO\bin\Debug\DTO.dll
+C:\Users\LENOVO\Documents\WinformApp.netFrame\QuanLiSv_3layer\DTO\bin\Debug\DTO.pdb
+C:\Users\LENOVO\Documents\WinformApp.netFrame\QuanLiSv_3layer\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\WinformApp.netFrame\QuanLiSv_3layer\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\WinformApp.netFrame\QuanLiSv_3layer\DTO\obj\Debug\DTO.dll
+C:\Users\LENOVO\Documents\WinformApp.netFrame\QuanLiSv_3layer\DTO\obj\Debug\DTO.pdb

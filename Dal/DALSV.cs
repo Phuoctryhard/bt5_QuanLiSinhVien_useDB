@@ -68,8 +68,7 @@ namespace Dal
                 new SqlParameter("@lopsh", idlop),
                 new SqlParameter("@ngaysinh", sv.ngaysinh),
                 new SqlParameter("@dtb", sv.dtb),
-                new SqlParameter("@nam", sv.sex),
-                
+                new SqlParameter("@nam", sv.sex),               
                 new SqlParameter("@anh", sv.anh),
                 new SqlParameter("@hb", sv.hocba),
                 new SqlParameter("@cccd",sv.cccd)
